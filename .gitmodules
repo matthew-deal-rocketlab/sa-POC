@@ -1,0 +1,3 @@
+[submodule "expo-test"]
+	path = expo-test
+	url = https://github.com/david-tout-rocketlab/expo-test
